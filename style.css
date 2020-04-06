@@ -1,0 +1,11 @@
+
+.searchInp{
+    margin: 50px auto;
+    margin-left: 50px;
+}
+.text{
+    width: 95%;
+    height: 600px;
+    overflow: scroll;
+    margin: 0 auto;
+}
